@@ -7,17 +7,17 @@
 
 Un saludo, me llamo **Leonardo Favio Vargas Salgado** y ahora paso a contarles un poco de mi.
 
-## Nacimiento
+## 👶 Nacimiento
 
 Nací en la ciudad de La Paz allá por el 88 en una pequeña posta que creo ya no existe. Dsde que tengo memoria soy muy friolento así que se podría decir que soy un _chukuta impostor_, al mero estilo de Among Us.
 
-## Infancia y adolescencia
+## 👦 Infancia y adolescencia
 
 Estudié la primaria en el colegio **Las Américas**, ubicado en el barrio municipal de Bella Vista. En esta etapa pude conocer a varios amigos entrañables, realizábamos experimentos de química basados en un libro que mostraban diferentes pruebas, las cuales creo que salí intoxicado unas 4 veces.
 
 Luego cursé la secundaria en el colegio **La Salle**, turno tarde. Acá me dediqué a jugar Kajcha, o como le dicen _balon mano_, organizamos juntos a unos compañeros el primer torneo del colegio en esta disciplina. Ahí adopté la manía de remangarme las prendas, pues mi deportivo era muy grande para mis brazos, lo que molestaba a la hora de jugar.
 
-## Estudios superiores
+## 📘 Estudios superiores
 
 Entre los estudios que resaltan están:
 
@@ -25,7 +25,7 @@ Entre los estudios que resaltan están:
 
 * Técnico superior en **Sistemas Informáticos en el ITECA**, donde quise profundizar mejor la programación. Si bien no puedo decir que era un excelente estudiante, esto me abrió paso a experimentar con diferentes tecnologías y buscar información por mi cuenta.
 
-## Hobbies
+## 🏃 Hobbies
 
 Entre mis pasatiempos más importantes puedo mencionar a:
 
